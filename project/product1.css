@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 90px;
+}
+.header{
+    height: 100px;
+    width: 1080px;
+    background-color: rgb(39, 39, 39);
+margin-left: 210px;
+margin-top: -150px;
+box-shadow: 2px 2px 10px cyan;
+border-radius: 30px;
+
+}
+.header P{
+    color: white;
+    text-align: center;
+margin-top: -10px;
+font-size: 20px;
+text-shadow: 2px 2px 5px cyan;
+}
+h2{
+    text-align: center;
+    text-shadow: 0px 0px 5px cyan;
+}
+button{
+    padding: 2px;
+    background-color: skyblue;
+    margin-left: 100px;
+    border: none;
+    font-size: 20px;
+    color: black;
+float: right;
+text-decoration: none;
+}
